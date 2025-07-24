@@ -36,3 +36,7 @@ Wood floor texture – Sourced from a free texture website (loaded as wood.jpg) 
 Lakers logo – Taken from a general web image search (loaded as Laker.PNG) on google.
 Basketball diffuse and bump maps – From carloschapeton.com as referenced in a CSUB project page
 cs.csubak.edu and saved locally as basketball.png and basketballBump.png. These textures provide the orange coloration and bump pattern for the ball.
+
+##Screenshots:
+
+Located in the screenshots folder in the repository showing the court, hoops, camera positions and the basketball itslef.
