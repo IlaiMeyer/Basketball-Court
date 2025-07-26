@@ -4,7 +4,7 @@ Lakers Basketball Court – HW05
 
 Ilai Meyer — student ID 307927921
 
-##How to Run:
+## How to Run:
 
 There are two options to run the program. The first option is clearly easier but make sure to have good internet connection and usually works best on chrome.
 1) Run in pages on GitHub, enter the URL into the browser - https://ilaimeyer.github.io/Basketball-Court/
